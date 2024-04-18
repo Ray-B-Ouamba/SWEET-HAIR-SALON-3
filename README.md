@@ -21,8 +21,8 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 * Get proficient at organizing your work so you can spot problems fast.
 * Acquire proficiency in nesting HTML pages.
 * Gain knowledge in debugging code.
-* learn to debuge an website code.
-
+* discover how to debug web code.
+  
 ## SIMILAR PROJECT:
 
 **COFEE-CULTURE-MENU:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
