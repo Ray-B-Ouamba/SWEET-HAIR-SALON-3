@@ -14,18 +14,14 @@ A tool for drawing clients, giving information, organizing work, and fostering r
   
 
 ## OPTIMIZATIONS:
-
-* Use a new background image for every HTML page.
-* Include the address of your hair business if desired.
-* Include the beginning of your story if you'd like.
-* Address any issues with your three buttons (our story, the team, and meet us):
-  * When you click on it, it should take you to the corresponding page where you may check more details.
+* Fixe the mobile version of your website.
 
 ## LESSONS LEARNED:
 
 * Get proficient at organizing your work so you can spot problems fast.
 * Acquire proficiency in nesting HTML pages.
 * Gain knowledge in debugging code.
+* learn to debuge an website code.
 
 ## SIMILAR PROJECT:
 
