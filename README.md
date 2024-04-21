@@ -13,7 +13,9 @@ A tool for drawing clients, giving information, organizing work, and fostering r
   
 
 ## OPTIMIZATIONS:
-* Fixe the mobile version of your website.
+* Fixe the mobile version of your website:
+     * Background image of the html(s) pages.
+  
 
 ## LESSONS LEARNED:
 
