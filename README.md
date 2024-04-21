@@ -1,5 +1,5 @@
 
-## SWEETHEART-HAIR-SALON-PART-3
+## SWEET-HAIR-SALON-PART-3
 
 A tool for drawing clients, giving information, organizing work, and fostering relationships with the public that visits the salon.
 
