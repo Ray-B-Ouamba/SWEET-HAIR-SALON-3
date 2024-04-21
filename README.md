@@ -19,8 +19,7 @@ A tool for drawing clients, giving information, organizing work, and fostering r
 
 * Get proficient at organizing your work so you can spot problems fast.
 * Acquire proficiency in nesting HTML pages.
-* Gain knowledge in debugging code.
-* discover how to debug web code.
+* Master the knowledge in debugging code.
   
 ## SIMILAR PROJECT:
 
